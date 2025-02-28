@@ -34,8 +34,9 @@ A Google Apps Script project that automatically adds buffer time after Google Ca
      - Select type of time based trigger: `Minute timer`
      - Select minute interval: `10` (recommended to run every 10 minutes)
      - Setup failure notifications if you want to be notified of failures
-     - Click "Save"
-7. Click `Run` and give the script to access your Google Calendar. Watch the magic happen.
+     - Click "Save" and give the script to access your Google Calendar
+7. Jump back to the `Code.js` file and click `Run`.
+8. Watch the magic happen.
 
 ## Usage
 
