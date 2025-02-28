@@ -1,0 +1,30 @@
+{
+  "name": "meeting-buffer-calendar",
+  "version": "1.0.0",
+  "description": "Google Calendar App Script to automatically add buffer time after meetings",
+  "scripts": {
+    "push": "clasp push",
+    "pull": "clasp pull",
+    "deploy": "clasp deploy",
+    "watch": "clasp push --watch",
+    "open": "clasp open",
+    "login": "clasp login",
+    "create": "clasp create --title 'Meeting Buffer Calendar'"
+  },
+  "keywords": [
+    "google-calendar",
+    "apps-script",
+    "calendar-automation",
+    "meeting-buffer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevehimmself/meeting-buffer-app.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@google/clasp": "^2.4.2"
+  },
+  "author": "Steven Johnson at Bndwdth",
+  "license": "MIT"
+} 
